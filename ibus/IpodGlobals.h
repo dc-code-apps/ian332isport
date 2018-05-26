@@ -1,0 +1,55 @@
+#ifndef IpodGlobals_h
+#define IpodGlobals_h
+#include <Arduino.h>
+
+#define IPOD_DEBUG
+
+/*
+//Mode 0 commands
+#define MODE_SWITCHING_MODE 0x00
+#define SIMPLE_REMOTE_MODE 0x02
+#define GET_CURRENT_MODE 0x03
+#define RETURN_REMOTE_UI_MODE 0x04
+#define AIR_MODE 0x04
+#define IDENTIFY_DEVICE_LINGOES 0x13
+#define ipodMessageGap 5
+
+//Mode 4 command
+#define ACK 0x01 // Reply
+#define REQUEST_PROTOCOL_VERSION 0x12 //GET_IPOD_TYPE 0x12 // Request
+#define GET_IPOD_TYPE_FEEDBACK 0x13 // Request
+#define REQUEST_IPOD_NAME 0x14 // Request
+#define RETURN_IPOD_NAME 0x15 // Reply
+#define RESET_DB_SELECTION 0x16 // Request
+#define SELECT_DB_RECORD 0x17 // Request
+#define GET_NUMBER_CATEGORISED_DB_RECORDS 0x18 // Request
+#define RETURN_NUMBER_CATEGORISED_DB_RECORDS 0x19 // Reply
+#define RETRIEVE_CATEGORISED_DATABASE_RECORDS 0x1A // Request
+#define RETURN_CATEGORISED_DATABASE_RECORDS 0x1B // Reply
+#define GET_PLAY_STATUS 0x1C // Request
+#define RETURN_PLAY_STATUS 0x1D // Reply
+#define GET_CURRENT_PLAYING_TRACK_INDEX 0x1E // Request
+#define RETURN_CURRENT_PLAYING_TRACK_INDEX 0x1F // Reply
+#define GET_INDEXED_PLAYING_TRACK_TITLE 0x20 // Request
+#define RETURN_INDEXED_PLAYING_TRACK_TITLE 0x21 // Reply
+#define GET_INDEXED_PLAYING_TRACK_ARTIST_NAME 0x22 // Request
+#define RETURN_INDEXED_PLAYING_TRACK_ARTIST_NAME 0x23 // Reply
+#define GET_INDEXED_PLAYING_TRACK_ALBUM_NAME 0x24 // Request
+#define RETURN_INDEXED_PLAYING_TRACK_ALBUM_NAME 0x25
+#define SET_PLAY_STATUS_CHANGE_NOTIFICATION 0x26 // Request
+#define PLAY_STATUS_CHANGE_NOTIFICATION 0x27 // Reply
+#define PLAY_CURRENT_SELECTION 0x28 // Request
+#define PLAY_CONTROL 0x29 // Request
+#define GET_SHUFFLE 0x2C // Request
+#define RETURN_SHUFFLE 0x2D // Reply
+#define SET_SHUFFLE 0x2E // Request
+#define GET_REPEAT 0x2F // Request
+#define RETURN_REPEAT 0x30 // Reply
+#define SET_REPEAT 0x31 // Request
+#define GET_IPOD_SCREEN_SIZE 0x33 // Request
+#define GET_NUM_PLAYING_TRACKS 0x35 // Request
+#define RETURN_NUM_PLAYING_TRACKS 0x36 // Reply
+#define SET_CURRENT_PLAYING_TRACK 0x37 // Request
+#define SELECT_SORT_DB_RECORD 0x38 // Request
+*/
+#endif
