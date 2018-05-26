@@ -1,0 +1,7 @@
+Place the “Ibus” folder into your Arduino IDE libraries location. This is typically:
+
+C:\Users\<username>\Documents\Arduino\libraries\
+
+** In progress ** Last update: 11 APR 2016
+
+• E46_KBus.ino
